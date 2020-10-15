@@ -21,3 +21,5 @@ React é uma biblioteca de construção de interface.
 
 
 TypeScript é um  SUPERSET  que é um conjunto de funcionalidades/ferramentas a mais que incrementamos no JavaScript, e a principal são as tipagens.
+
+Yarn instala os pacotes na máquina enquanto o npx utiliza pacotes de terceiros.
