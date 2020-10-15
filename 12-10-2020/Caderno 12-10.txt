@@ -1,1 +1,23 @@
+--------------------------------12-10-2020---------------------------------------
+
 Gerenciador de pacote é importante pois auxilia na instalação de outras ferramentas/softwares.
+
+npm significa "node package manager"
+
+
+Browser = Cliente
+
+App Front-end (visual) = HTML, CSS e JS
+
+Server Back-end = Banco de dados, e-mail, autenticação
+
+
+JSON significa (JavaScript Objecti Notation)
+
+
+React é uma biblioteca de construção de interface.
+    A primeira vantagem é o que React nos ajuda a lidar com dados retornados em JSON
+    Também nos ajuda a construir nossa SPA (Single Page Application)
+
+
+TypeScript é um  SUPERSET  que é um conjunto de funcionalidades/ferramentas a mais que incrementamos no JavaScript, e a principal são as tipagens.
